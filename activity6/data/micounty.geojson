@@ -1,0 +1,314 @@
+[
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Wayne County",
+        "STATE": "Michigan",
+        "POP1950": 2435235,
+        "POP1960": 2666297,
+        "POP1970": 2666751,
+        "POP1980": 2337891,
+        "POP1990": 2111687,
+        "POP2000": 2061162,
+        "POP2010": 1820584,
+        "POP2020": 1793561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2844172,
+          42.2682408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Oakland County",
+        "STATE": "Michigan",
+        "POP1950": 396001,
+        "POP1960": 690259,
+        "POP1970": 907871,
+        "POP1980": 1011793,
+        "POP1990": 1083592,
+        "POP2000": 1194156,
+        "POP2010": 1202362,
+        "POP2020": 1274395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3804439,
+          42.6618842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Macomb County",
+        "STATE": "Michigan",
+        "POP1950": 184961,
+        "POP1960": 405804,
+        "POP1970": 625309,
+        "POP1980": 694600,
+        "POP1990": 717400,
+        "POP2000": 788149,
+        "POP2010": 840978,
+        "POP2020": 881217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.902901,
+          42.6741189
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Kent County",
+        "STATE": "Michigan",
+        "POP1950": 288292,
+        "POP1960": 363187,
+        "POP1970": 411044,
+        "POP1980": 444506,
+        "POP1990": 500631,
+        "POP2000": 574335,
+        "POP2010": 602622,
+        "POP2020": 657974
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5502718,
+          43.0024013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Genesee County",
+        "STATE": "Michigan",
+        "POP1950": 270963,
+        "POP1960": 374313,
+        "POP1970": 444341,
+        "POP1980": 450449,
+        "POP1990": 430459,
+        "POP2000": 436141,
+        "POP2010": 425790,
+        "POP2020": 406211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7274305,
+          43.0220032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Washtenaw County",
+        "STATE": "Michigan",
+        "POP1950": 134606,
+        "POP1960": 172440,
+        "POP1970": 234103,
+        "POP1980": 264748,
+        "POP1990": 282937,
+        "POP2000": 322895,
+        "POP2010": 344791,
+        "POP2020": 372258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8440853,
+          42.2582044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ottawa County",
+        "STATE": "Michigan",
+        "POP1950": 73751,
+        "POP1960": 98719,
+        "POP1970": 128181,
+        "POP1980": 157174,
+        "POP1990": 187768,
+        "POP2000": 238314,
+        "POP2010": 263801,
+        "POP2020": 296200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9827867,
+          42.9547143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ingham County",
+        "STATE": "Michigan",
+        "POP1950": 172941,
+        "POP1960": 211296,
+        "POP1970": 261039,
+        "POP1980": 275520,
+        "POP1990": 281912,
+        "POP2000": 279320,
+        "POP2010": 280895,
+        "POP2020": 284900
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3800841,
+          42.5860505
+        ]
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Kalamazoo County",
+        "STATE": "Michigan",
+        "POP1950": 126707,
+        "POP1960": 169712,
+        "POP1970": 201550,
+        "POP1980": 212378,
+        "POP1990": 223411,
+        "POP2000": 238603,
+        "POP2010": 250331,
+        "POP2020": 261670
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5372797,
+          42.2494968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Livingston County",
+        "STATE": "Michigan",
+        "POP1950": 26725,
+        "POP1960": 38233,
+        "POP1970": 58967,
+        "POP1980": 100289,
+        "POP1990": 115645,
+        "POP2000": 156951,
+        "POP2010": 180967,
+        "POP2020": 193866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9147925,
+          42.5924563
+        ]
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Saginaw County",
+        "STATE": "Michigan",
+        "POP1950": 153515,
+        "POP1960": 190752,
+        "POP1970": 219743,
+        "POP1980": 228059,
+        "POP1990": 211946,
+        "POP2000": 210039,
+        "POP2010": 200169,
+        "POP2020": 190124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0468403,
+          43.3326882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Muskegon County",
+        "STATE": "Michigan",
+        "POP1950": 121545,
+        "POP1960": 149943,
+        "POP1970": 157426,
+        "POP1980": 157589,
+        "POP1990": 158983,
+        "POP2000": 170200,
+        "POP2010": 172188,
+        "POP2020": 175824
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.129351,
+          43.2484584
+        ]
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "St. Clair County",
+        "STATE": "Michigan",
+        "POP1950": 91599,
+        "POP1960": 107201,
+        "POP1970": 120175,
+        "POP1980": 138802,
+        "POP1990": 145607,
+        "POP2000": 164235,
+        "POP2010": 163040,
+        "POP2020": 160383
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6283554,
+          42.9426715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson County",
+        "STATE": "Michigan",
+        "POP1950": 107925,
+        "POP1960": 131994,
+        "POP1970": 143274,
+        "POP1980": 151495,
+        "POP1990": 149756,
+        "POP2000": 158422,
+        "POP2010": 160248,
+        "POP2020": 160366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.425589,
+          42.2416466
+        ]
+      }
+    }
+  ]
